@@ -23,8 +23,8 @@ config_form_library_src: https://open-sdg.org/open-sdg-config-form/2.4.0/bundle.
 cookie_consent_form:
   enabled: false
 country:
-  name: Australia
-  adjective: Australian
+  adjective: South Sudanese
+  name: South Sudan
 create_goals:
   previous_next_links: false
   goals: []
@@ -52,9 +52,9 @@ data_fields:
   series: ''
 date_formats: []
 disclaimer:
-  phase: ''
   message: ''
   hidden: false
+  phase: ''
 email_contacts:
   questions: test@example.com
   suggestions: test@example.com
