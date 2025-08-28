@@ -73,11 +73,11 @@ footer_menu:
   - path: /about/cookies-and-privacy/
     translation_key: menu.cookies
 frontpage_cards:
-  - title: frontpage.download_all
+  - title: National Bureau of Statistics South Sudan
     content: ''
     include: components/download-all-data.html
     button_label: ''
-    button_link: ''
+    button_link: https://nbs.gov.ss/
     rule_color: ''
   - title: Lorem ipsum
     content: |
